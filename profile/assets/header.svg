@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="280" viewBox="0 0 1200 280" role="img" aria-labelledby="title desc">
+  <title id="title">@viorelss — Software Engineer</title>
+  <desc id="desc">Java | JS | TS | Rust | C | Kotlin. Six geometric tiles form an aligned grid on the right.</desc>
+  <rect width="1200" height="280" rx="12" fill="#101b2b"/>
+  <rect x="48" y="48" width="3" height="19" rx="1.5" fill="#71d8bf"/>
+  <text x="65" y="63" fill="#adbacb" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Arial, sans-serif" font-size="16" font-weight="500" letter-spacing="2.4">SOFTWARE ENGINEER</text>
+  <text x="45" y="156" fill="#f3f6fb" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="76" font-weight="600" letter-spacing="-4">@viorelss</text>
+  <text x="49" y="215" fill="#c2cddc" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="24">Java | JS | TS | Rust | C | Kotlin</text>
+  <path d="M826 48V232" stroke="#29394d"/>
+  <g stroke="#3b536b" stroke-width="1.5">
+    <rect x="880" y="65" width="64" height="64" rx="10" fill="#18283b"/>
+    <rect x="964" y="65" width="64" height="64" rx="10" fill="#20394a"/>
+    <rect x="1048" y="65" width="64" height="64" rx="10" fill="#18283b"/>
+    <rect x="880" y="149" width="64" height="64" rx="10" fill="#20394a"/>
+    <rect x="1048" y="149" width="64" height="64" rx="10" fill="#20394a"/>
+  </g>
+  <rect x="964" y="149" width="64" height="64" rx="10" fill="#71d8bf"/>
+</svg>
