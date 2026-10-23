@@ -1,5 +1,5 @@
 <p>
-  <img src="./assets/header.svg" width="100%" alt="@viorelss — Software Engineer. Java | JS | TS | Rust | C | Kotlin.">
+  <img src="https://raw.githubusercontent.com/ViorelsS/.github/main/profile/assets/header.svg" width="100%" alt="@viorelss — Software Engineer. Java | JS | TS | Rust | C | Kotlin.">
 </p>
 
 <p>
@@ -19,7 +19,7 @@
   <tr>
     <td valign="top">
       <a href="https://github.com/ViorelsS/bottom-panel-toggle">
-        <img src="./assets/bottom-panel-toggle.png" width="34%" align="right" alt="Bottom Panel Toggle in IntelliJ IDEA, with the Project sidebar and Terminal visible.">
+        <img src="https://raw.githubusercontent.com/ViorelsS/.github/main/profile/assets/bottom-panel-toggle.png" width="34%" align="right" alt="Bottom Panel Toggle in IntelliJ IDEA, with the Project sidebar and Terminal visible.">
       </a>
       <sub>01 / DEVELOPER TOOLING</sub>
       <h3>Bottom Panel Toggle</h3>
@@ -34,7 +34,7 @@
   <tr>
     <td valign="top">
       <a href="https://js-hackernews.netlify.app/">
-        <img src="./assets/js-hackernews.png" width="34%" align="right" alt="JS_HackerNews showing a responsive feed of technology news, with story titles, authors, and links.">
+        <img src="https://raw.githubusercontent.com/ViorelsS/.github/main/profile/assets/js-hackernews.png" width="34%" align="right" alt="JS_HackerNews showing a responsive feed of technology news, with story titles, authors, and links.">
       </a>
       <sub>02 / WEB APPLICATION</sub>
       <h3>JS_HackerNews</h3>
